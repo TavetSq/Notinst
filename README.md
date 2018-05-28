@@ -7,4 +7,4 @@ I have to accredit my ex team mate "Mariana" for creative ideas in the Front-End
 Notinst es un proyecto hecho en PHP. Éste permite a las escuelas a organizar eventos ayudando a la comunidad a estar atentos sobre los
 eventos y fechas importantes del instituto.
 El proyecto está terminado, pero si tienes algún cambio puedes contribuir.
-Acrédito a mi ex compañera de trabajo "Mariana" por algunas ideas creativas en el área Front-End.
+Acredito a mi ex compañera de trabajo "Mariana" por algunas ideas creativas en el área Front-End.
